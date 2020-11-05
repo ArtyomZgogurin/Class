@@ -1,3 +1,5 @@
+class Animals():
+  def opr(self,name)
 
 class Dog():
   def __init__(self,name,size):
